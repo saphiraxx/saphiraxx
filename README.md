@@ -4,11 +4,15 @@
 Hello 👋, I'm Saphira
 </h3>
 
-<h4 align="center">
+<p align="center">
 🇧🇷 I'm a Software Engineer 💻
-</h4> 
+</p> 
 
-[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saphira-cardoso/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/saphira-cardoso/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ## 👩‍💻 About Me
 <ul>

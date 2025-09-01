@@ -12,12 +12,12 @@ Hello 👋, I'm Saphira
 
 ## 👩‍💻 About Me
 <ul>
-  <li>💼 Frontend Engineer with experience in React, TypeScript, & modern web technologies</li>
-  <li>🔍 QA Engineer, bringing a detail-oriented mindset & focus on quality & testing</li>
-  <li>🎨 Creative at heart — experienced with Adobe Suite, Figma, & social media content creation</li>
+  <li>💼 Frontend Engineer with experience in React, TypeScript, & modern web technologies;</li>
+  <li>🔍 QA Engineer, bringing a detail-oriented mindset & focus on quality & testing;</li>
+  <li>🎨 Creative at heart — experienced with Adobe Suite, Figma, & social media content creation;</li>
   <li>📈 Someone who loves questioning the "why" and "how" of almost everything!</li>
-  <li>🌱 Always open to collaboration and knowledge sharing</li>
-  <li>🧶 🐶 In my free time, I enjoy spending time with my dog Fred and practicing crochet</li>
+  <li>🌱 Always open to collaboration and knowledge sharing;</li>
+  <li>🧶 🐶 In my free time, I enjoy spending time with my dog Fred and practicing crochet.</li>
 </ul>
 
 

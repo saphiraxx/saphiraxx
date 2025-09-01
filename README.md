@@ -8,6 +8,8 @@ Hello 👋, I'm Saphira
 🇧🇷 I'm a Software Engineer 💻
 </h4> 
 
+[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saphira-cardoso/)
+
 ## 👩‍💻 About Me
 <ul>
   <li>💼 Frontend Engineer with experience in React, TypeScript, & modern web technologies</li>

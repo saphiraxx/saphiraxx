@@ -17,7 +17,7 @@ Hello 👋, I'm Saphira
   <li>🎨 Creative at heart — experienced with Adobe Suite, Figma, & social media content creation</li>
   <li>📈 Someone who loves questioning the "why" and "how" of almost everything!</li>
   <li>🌱 Always open to collaboration and knowledge sharing</li>
-  <li>🧶🐶 In my free time, I enjoy spending time with my dog Fred and practicing crochet</li>
+  <li>🧶 🐶 In my free time, I enjoy spending time with my dog Fred and practicing crochet</li>
 </ul>
 
 

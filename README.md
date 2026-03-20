@@ -5,7 +5,7 @@ Hello 👋, I'm Saphira
 </h3>
 
 <p align="center">
-🇧🇷 I'm a Software Engineer 💻
+🇧🇷 Software Engineer 💻
 </p> 
 
 <p align="center">
